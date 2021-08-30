@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/koralbaron/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/koralbaron/<OWNER>/<OWNER>/readme_header.png "Header")]
 <!--
 **koralbaron/koralbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
