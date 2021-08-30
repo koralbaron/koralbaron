@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/koralbaron/koralbaron/main/KoralBaron-Header.png "Header")
 
-## Hello, folks! 
+## 👋 Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white)
 
-## Social Media
+## 😄 Social Media
 <!-- Actual text -->
 
 You can find me on [![LinkedIn][1.1]][1].
