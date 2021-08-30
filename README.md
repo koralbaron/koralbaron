@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white)
 
 
 
