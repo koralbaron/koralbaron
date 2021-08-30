@@ -19,7 +19,7 @@ My name is Koral Baron and I'm a software developer/Computer Network Administrat
 
 ## 📈 GitHub Stats
 [![Koral's GitHub stats](https://github-readme-stats.vercel.app/api?username=koralbaron&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koralbaron&hide=ActionScript,Makefile&layout=compact)](https://github.com/koralbaron/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koralbaron&hide=ActionScript,Makefile&layout=compact&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
 ## 😄 Social Media
 <!-- Actual text -->
 
