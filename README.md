@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/koralbaron/koralbaron/main/KoralBaron-Header.png "Header")
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LogoName>&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LogoName>&logoColor=white&color=2bbc8a)
 <!--
 **koralbaron/koralbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
