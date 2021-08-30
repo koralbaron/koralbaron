@@ -17,6 +17,7 @@ My name is Koral Baron and I'm a software developer/Computer Network Administrat
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white)
 
+## 📈 GitHub Stats
 [![Koral's GitHub stats](https://github-readme-stats.vercel.app/api?username=koralbaron&hide=stars,prs&show_icons=true)](https://github.com/koralbaron/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koralbaron&hide=ActionScript,Makefile&layout=compact)](https://github.com/koralbaron/github-readme-stats)
 ## 😄 Social Media
