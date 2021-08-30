@@ -17,6 +17,7 @@ My name is Koral Baron and I'm a software developer/Computer Network Administrat
 ![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 ## 😄 Social Media
 <!-- Actual text -->
 
