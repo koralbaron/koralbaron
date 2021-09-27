@@ -20,6 +20,10 @@ My name is Koral Bar-On and I'm a Software Developer/Computer Network Administra
 ## 📈 GitHub Stats
 [![Koral's GitHub stats](https://github-readme-stats.vercel.app/api?username=koralbaron&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koralbaron&hide=ActionScript,Makefile&layout=compact&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
+
+## GitHub Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=github-readme-stats)](https://github.com/koralbaron/github-readme-stats)
+
 ## 😄 Social Media
 <!-- Actual text -->
 
