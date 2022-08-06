@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/koralbaron/koralbaron/main/Blue and White Abstract Technology LinkedIn Banner.png "Header")
+![Header](https://raw.githubusercontent.com/koralbaron/koralbaron/main/KoralBaron-Header.png "Header")
 
 ## 👋 Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 My name is Koral Bar-On and I'm a Software Developer/Computer Network Administrator. I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in Computer Science at the Open University. 
