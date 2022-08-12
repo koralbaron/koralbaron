@@ -32,7 +32,7 @@ My name is Koral Bar-On and I'm a Software Developer/Computer Network Administra
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Image-processing-mini-projects-Python&theme=algolia)](https://github.com/koralbaron/Image-processing-mini-projects-Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Falling-Cubes-Game&theme=algolia)](
 https://github.com/koralbaron/Falling-Cubes-Game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=The-Cycle-Of-Life-Game&theme=algolia)](https://github.com/koralbaron/The-Cycle-Of-Life-Game)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Weary-Array-Traveler&theme=algolia)](https://github.com/koralbaron/Weary-Array-Traveler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Squares-Detaction&theme=algolia)](https://github.com/koralbaron/Squares-Detaction)
 
