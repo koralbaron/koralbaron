@@ -21,6 +21,8 @@ My name is Koral Bar-On and I'm a Software Developer/Computer Network Administra
 [![Koral's GitHub stats](https://github-readme-stats.vercel.app/api?username=koralbaron&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koralbaron&hide=ActionScript,jupyter%20notebook,Makefile&layout=compact&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Console-Snake-Game)](https://github.com/koralbaron/Console-Snake-Game)
+
 ## 😄 Social Media
 <!-- Actual text -->
 
