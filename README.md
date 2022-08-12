@@ -24,7 +24,7 @@ My name is Koral Bar-On and I'm a Software Developer/Computer Network Administra
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Assembler&theme=algolia)](https://github.com/koralbaron/Assembler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Smooth-Rescale-with-FFT&theme=algolia)](https://github.com/koralbaron/Smooth-Rescale-with-FFT)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Segmentation-On-a-Video-&theme=algolia)](https://github.com/koralbaron/https://github.com/koralbaron/Segmentation-On-a-Video-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Segmentation-On-a-Video-&theme=algolia)](https://github.com/koralbaron/Segmentation-On-a-Video-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=WorkUClient-&theme=algolia)](https://github.com/koralbaron/WorkUClient-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Credit-Card-Fraud-Detection&theme=algolia)](https://github.com/koralbaron/Credit-Card-Fraud-Detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Pacman-Search-And-Multi-Agent-Search&theme=algolia)](https://github.com/koralbaron/Pacman-Search-And-Multi-Agent-Search)
