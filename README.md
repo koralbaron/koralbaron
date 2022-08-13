@@ -40,21 +40,7 @@ https://github.com/koralbaron/Falling-Cubes-Game)
 
 
 ## 😄 Social Media
-<!-- Actual text -->
-
-You can find me on [![LinkedIn][1.1]][1].
-
-<!-- Icons -->
-
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/koral-baron-a59030217/
-
-
-
-
+You can find me on [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/koral-baron-a59030217/)
 
 <!--
 **koralbaron/koralbaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
