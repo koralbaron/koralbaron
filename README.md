@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/koralbaron/koralbaron/main/KORALBARON-HEADER-2.png "Header")
 
 ## 👋 Hello, folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-My name is Koral Bar-On and I'm a Software Developer/Computer Network Administrator. I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in Computer Science at the Open University. 
+My name is Koral Baron and I'm a Software Developer/Computer Network Administrator. I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in Computer Science at the Open University. 
 
 ## 🔧 Technologies & Tools
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&color=0e0080&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25">&nbsp;</img>
