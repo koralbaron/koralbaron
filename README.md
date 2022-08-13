@@ -4,18 +4,17 @@
 My name is Koral Bar-On and I'm a Software Developer/Computer Network Administrator. I'm from Israel, living in Rehovot and currently pursuing a bachelor's degree in Computer Science at the Open University. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Tools-VMware-informational?style=flat&logo=vmware&logoColor=white)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&color=0e0080&logoColor=white" alt="JavaScript logo" title="JavaScript" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-informational?logo=intellijidea&color=0e0080&logoColor=white" alt="IntelliJ_IDEA logo" title="IntelliJ_IDEA" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/Visual_Studio-informational?logo=visualstudio&color=0e0080&logoColor=white" alt="Visual_Studio logo" title="Visual_Studio" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/PyCharm-informational?logo=pycharm&color=0e0080&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/Python-informational?logo=python&color=0e0080&logoColor=white" alt="Python logo" title="Python" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/C-informational?logo=c&color=0e0080&logoColor=white" alt="C" title="C" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/C++-informational?logo=cplusplus&color=0e0080&logoColor=white" alt="C++" title="C++" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/Java-informational?logo=java&color=0e0080&logoColor=white" alt="Java" title="Java" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/React-informational?logo=react&color=0e0080&logoColor=white" alt="React" title="React" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/VMware-informational?logo=vmware&color=0e0080&logoColor=white" alt="VMware" title="VMware" height="25">&nbsp;</img>
+<img src="https://img.shields.io/badge/Jira-informational?logo=jira&color=0e0080&logoColor=white" alt="Jira" title="Jira" height="25">&nbsp;</img>
 
 ## 📈 GitHub Stats
 [![Koral's GitHub stats](https://github-readme-stats.vercel.app/api?username=koralbaron&hide=stars,prs&show_icons=true&theme=algolia)](https://github.com/koralbaron/github-readme-stats)
