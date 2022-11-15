@@ -36,6 +36,7 @@ https://github.com/koralbaron/Falling-Cubes-Game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Calculator&theme=algolia)](https://github.com/koralbaron/Calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Weary-Array-Traveler&theme=algolia)](https://github.com/koralbaron/Weary-Array-Traveler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Phone-Book-Program&theme=algolia)](https://github.com/koralbaron/Phone-Book-Program)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koralbaron&repo=Blending-Images-Using-Laplacian-Pyramid&theme=algolia)](https://github.com/koralbaron/Blending-Images-Using-Laplacian-Pyramid)
 
 
 ## 😄 Social Media
